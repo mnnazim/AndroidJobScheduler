@@ -1,0 +1,4 @@
+#Fri Nov 24 16:58:28 BDT 2017
+base.0=C\:\\Users\\USER\\Downloads\\AndroidJobScheduler\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

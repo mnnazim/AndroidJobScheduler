@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c592e4540d929d2fe405dbbb5fcc4063\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c592e4540d929d2fe405dbbb5fcc4063\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c592e4540d929d2fe405dbbb5fcc4063\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:15:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c592e4540d929d2fe405dbbb5fcc4063\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c592e4540d929d2fe405dbbb5fcc4063\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.androidjobscheduler.MainActivity
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:26:27-74
+service#com.example.androidjobscheduler.MyJobService
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:30:9-32:72
+	android:permission
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:31:13-41
+activity#com.example.androidjobscheduler.ShowStatus
+ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from C:\Users\USER\Downloads\AndroidJobScheduler\app\src\main\AndroidManifest.xml:34:19-45
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\5faef11ffc4456ada495a857c2437b1c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\40254ef5e102b13fb23a1b02921390e4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\a3c4e09feeb91e4c4ae82ffa0d859535\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\8908505cb00e5eac0a9a9f02eaa7bc26\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\99f6131c6fb1086fada730177b84f6aa\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\393086684da61a9aa1acba0ceb63f1a9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d80bc340dbed101a58f3262d84ca499d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a519d7a2c63a72a3d506bee9e06bd47c\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\61d9da207966b3beeca539ef479d6c99\AndroidManifest.xml:26:9-47
